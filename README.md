@@ -2,7 +2,7 @@
 
 A small company with three departments (Accounting, Sales, and HR) needs a redundant and segmented network. I designed, configured, and verified this network in Cisco Packet Tracer.
 
-![Network topology](images/topology.png)
+![Network topology](images/topology.png.png)
 
 ## Overview
 - **Goal:** build a redundant network with one VLAN per department, routing between VLANs, and basic access security.
