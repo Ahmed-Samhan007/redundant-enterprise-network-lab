@@ -43,7 +43,7 @@ ip ssh version 2
 ip domain-name amino.local
 !
 !
-spanning-tree mode pvst
+spanning-tree mode rapid-pvst
 !
 !
 !
